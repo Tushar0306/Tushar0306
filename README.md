@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tushar0306
-- 👀 I’m interested in learning different languages, data science.
-- 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on data science projects.
+- 👀 I’m interested in learning different programming languages, tools and technologies.
+- 🌱 I’m currently learning software development.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me https://www.linkedin.com/in/tushar-shekhar-918165226
 
 <!---
